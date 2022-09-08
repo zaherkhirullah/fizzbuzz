@@ -274,12 +274,15 @@ video {
 }
 
 .group-item {
-    border: 1px solid #eee;
+    border: 1px solid #aaa;
+    border-top: none;
+    border-bottom: none;
     border-radius: 50px;
-    margin: 0.1rem;
+    margin: 0.4rem 0;
     padding: 0 1rem;
     text-align: center;
 }
+
 .group-item span.Fizz {
     color: #cd079e;
 }
