@@ -1,8 +1,10 @@
 # FizzBuzz
 
-Write a program that prints the numbers from 1 to 100. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+Write a program that prints the numbers from 1 to 100. But for multiples of three print Fizz instead of the number and
+for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
 ### Technology
+
 You can write plain-php code or use a framework for this challenge.
 
 Please use PHP 7.1+, strict typing and object oriented programming.
@@ -10,9 +12,11 @@ Please use PHP 7.1+, strict typing and object oriented programming.
 Also provide some Unit-Tests to verify the sample output.
 
 ### Summary
+
 This coding challenge shouldn't take more than 2 hours. Please provide us a github/bitbucket link when you're done.
 
 ### Sample-Output
+
 ```
 1
 2
@@ -36,3 +40,19 @@ Fizz
 Buzz
 ... etc up to 100
 ```
+<hr>
+
+## RESULT:
+
+1. You can find ``Homepage`` in ``resource/views/welcome.blade.php``
+---------------------------
+
+2. You can find ``view code`` in ``resource/views/code.blade.php``
+---------------------------
+
+3. You can find ``challenge code`` ``in app/Models/FuzzBuzz.php``
+---------------------------
+
+5. You can find ``Unit test code``  in ``tests/Unit/FuzzBuzzTest.php``
+---------------------------
+
